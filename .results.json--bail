@@ -1,0 +1,228 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 15,
+    "passes": 15,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-03-10T04:16:52.182Z",
+    "end": "2023-03-10T04:16:52.374Z",
+    "duration": 192
+  },
+  "tests": [
+    {
+      "title": "'add()' is a valid function",
+      "fullTitle": "basic math functions 'add()' is a valid function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "'subtract()' is a valid function",
+      "fullTitle": "basic math functions 'subtract()' is a valid function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "'multiply()' is a valid function",
+      "fullTitle": "basic math functions 'multiply()' is a valid function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "'divide()' is a valid function",
+      "fullTitle": "basic math functions 'divide()' is a valid function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "add(a, b) adds two numbers and returns the result",
+      "fullTitle": "basic math functions add(a, b) adds two numbers and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "subtract(a, b) subtracts b from a and returns the result",
+      "fullTitle": "basic math functions subtract(a, b) subtracts b from a and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "multiply(a, b) multiplies two numbers and returns the result",
+      "fullTitle": "basic math functions multiply(a, b) multiplies two numbers and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "divide(a, b) divides a by b and returns the result",
+      "fullTitle": "basic math functions divide(a, b) divides a by b and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "increment(n) increments n and returns the result",
+      "fullTitle": "basic math functions increment(n) increments n and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "decrement(n) decrements n and returns the result",
+      "fullTitle": "basic math functions decrement(n) decrements n and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "parses n as an integer and returns the parsed integer",
+      "fullTitle": "makeInt(n) parses n as an integer and returns the parsed integer",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "assumes base 10",
+      "fullTitle": "makeInt(n) assumes base 10",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns NaN as appropriate",
+      "fullTitle": "makeInt(n) returns NaN as appropriate",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "preserves n's decimals (it parses n as a floating point number) and returns the parsed number",
+      "fullTitle": "preserveDecimal(n) preserves n's decimals (it parses n as a floating point number) and returns the parsed number",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns NaN as appropriate",
+      "fullTitle": "preserveDecimal(n) returns NaN as appropriate",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "'add()' is a valid function",
+      "fullTitle": "basic math functions 'add()' is a valid function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "'subtract()' is a valid function",
+      "fullTitle": "basic math functions 'subtract()' is a valid function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "'multiply()' is a valid function",
+      "fullTitle": "basic math functions 'multiply()' is a valid function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "'divide()' is a valid function",
+      "fullTitle": "basic math functions 'divide()' is a valid function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "add(a, b) adds two numbers and returns the result",
+      "fullTitle": "basic math functions add(a, b) adds two numbers and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "subtract(a, b) subtracts b from a and returns the result",
+      "fullTitle": "basic math functions subtract(a, b) subtracts b from a and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "multiply(a, b) multiplies two numbers and returns the result",
+      "fullTitle": "basic math functions multiply(a, b) multiplies two numbers and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "divide(a, b) divides a by b and returns the result",
+      "fullTitle": "basic math functions divide(a, b) divides a by b and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "increment(n) increments n and returns the result",
+      "fullTitle": "basic math functions increment(n) increments n and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "decrement(n) decrements n and returns the result",
+      "fullTitle": "basic math functions decrement(n) decrements n and returns the result",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "parses n as an integer and returns the parsed integer",
+      "fullTitle": "makeInt(n) parses n as an integer and returns the parsed integer",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "assumes base 10",
+      "fullTitle": "makeInt(n) assumes base 10",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns NaN as appropriate",
+      "fullTitle": "makeInt(n) returns NaN as appropriate",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "preserves n's decimals (it parses n as a floating point number) and returns the parsed number",
+      "fullTitle": "preserveDecimal(n) preserves n's decimals (it parses n as a floating point number) and returns the parsed number",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns NaN as appropriate",
+      "fullTitle": "preserveDecimal(n) returns NaN as appropriate",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
